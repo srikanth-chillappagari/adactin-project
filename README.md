@@ -1,5 +1,4 @@
-#Java Automation Project
-##Base point for java Automation projects
+#Java adactin Project
 
 *Project for creating automation test using Selenium webDriver and TestNG.*
 
